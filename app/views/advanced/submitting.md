@@ -15,7 +15,7 @@ Before submitting, please *absolutely* make sure of the following:
 ### YOUR GITHUB REPOSITORY CONTAINS ALL OF YOUR PROJECT FILES:
 - [x] a BOM, in CSV format in the root directory, WITH LINKS
 - [x] the source files for your PCB, if you have one
-- [x] the source files for your CAD model, if you have one
+- [x] the source files for your CAD model, if you have one (`.step` or `.3mf` only)
 - [x] ANY other files that are part of your project.
 
 ### YOUR README.md FILE CONTAINS THE FOLLOWING:
